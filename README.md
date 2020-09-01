@@ -3,11 +3,11 @@ Um jogo com propósito servir de alívio cômico nesse período de crise. Dentro
 você controla um sabão e tem que se preocupar em eliminar o novo COVID-19.
 Mas atenção! no caminho você pode se deparar com algumas dificuldades e auxílios. 
 
-<img src="https://raw.githubusercontent.com/gsuzeda/FlappyCorona/master/screenshots/1.jpg" width="500" height="250">
-<img src="https://raw.githubusercontent.com/gsuzeda/FlappyCorona/master/screenshots/2.jpg" width="500" height="250">
-<img src="https://raw.githubusercontent.com/gsuzeda/FlappyCorona/master/screenshots/3.jpg" width="250" height="500">
-<img src="https://raw.githubusercontent.com/gsuzeda/FlappyCorona/master/screenshots/4.jpg" width="250" height="500">
-<img src="https://raw.githubusercontent.com/gsuzeda/FlappyCorona/master/screenshots/5.jpg" width="250" height="500">
+<img src="https://raw.githubusercontent.com/gsuzeda/FlappyCorona/master/screenshots/1.jpg" width="250" height="500">
+<img src="https://raw.githubusercontent.com/gsuzeda/FlappyCorona/master/screenshots/2.jpg" width="250" height="500">
+<img src="https://raw.githubusercontent.com/gsuzeda/FlappyCorona/master/screenshots/3.jpg" width="500" height="250">
+<img src="https://raw.githubusercontent.com/gsuzeda/FlappyCorona/master/screenshots/4.jpg" width="500" height="250">
+<img src="https://raw.githubusercontent.com/gsuzeda/FlappyCorona/master/screenshots/5.jpg" width="500" height="250">
 
 
 # Objetivo
