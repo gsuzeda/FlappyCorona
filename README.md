@@ -3,11 +3,11 @@ Um jogo com propósito servir de alívio cômico nesse período de crise. Dentro
 você controla um sabão e tem que se preocupar em eliminar o novo COVID-19.
 Mas atenção! no caminho você pode se deparar com algumas dificuldades e auxílios. 
 
-![Screenshot](/screenshots/2.jpg)
-![Screenshot](/screenshots/1.jpg)
-![Screenshot](/screenshots/3.jpg)
-![Screenshot](/screenshots/4.jpg)
-![Screenshot](/screenshots/5.jpg)
+![Screenshot](/screenshots/1.jpg = 250x500)
+![Screenshot](/screenshots/2.jpg = 250x500)
+![Screenshot](/screenshots/3.jpg = 500x250)
+![Screenshot](/screenshots/4.jpg = 500x250)
+![Screenshot](/screenshots/5.jpg = 500x250)
 
 
 # Objetivo
