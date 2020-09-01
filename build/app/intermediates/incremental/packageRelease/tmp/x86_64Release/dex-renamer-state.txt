@@ -1,4 +1,0 @@
-#Wed Jun 03 18:28:58 PDT 2020
-base.0=D\:\\Projetos\\corona_flappy\\build\\app\\intermediates\\transforms\\r8\\release\\0\\classes.dex
-path.0=classes.dex
-renamed.0=classes.dex
